@@ -1,0 +1,36 @@
+body {
+	background-color: gray;
+}
+
+.image {
+	position: relative;
+}
+
+.image h1 {
+	bottom: 8px;
+	left: 16px;
+	color: white;
+	position: absolute;
+}
+
+nav ul li {
+	list-style-type: none;
+	display: inline-block;
+	padding-bottom: 50px;
+	padding-right: 10px;
+	color: white;
+	/*promeni boju slova*/
+}
+
+div.aaa {
+	background-color: white;
+	padding: 10px 10px 5px 20px;
+	width: 97%;
+}
+
+footer {
+	padding-left: 20px;
+	padding-top: 10px;
+	color: white;
+}
+
